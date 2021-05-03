@@ -2,7 +2,7 @@
 - 👀 I’m interested in java, python, android.
 - 🌱 I’m currently learning python and android.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : hvthakur@gmail.com
+- 📫 How to reach me: hvthakur07@gmail.com
 
 <!---
 hvt0707/hvt0707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
